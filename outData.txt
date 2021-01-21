@@ -1,0 +1,7 @@
+Name: Giselle Robinson Department: Accounting
+Monthly Gross Salary: $5600, Monthly Bonus: 5%, Taxes: 30%
+Paycheck: $84000000.00
+Distance Traveled: 450.00, Traveling Time: 9.00 hours
+Average Speed: 50.00 miles per hour
+Number of Coffee Cups Sold: 75.00, Cost: $1.50 per cup
+Sales Amount = $112.50
